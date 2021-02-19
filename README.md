@@ -4,6 +4,7 @@ This is a list of things I know[knew] and might[might have] forget[forgotten] to
 ## Programming Languages
 - C
 - C++
+- C#
 - Java
 - python
 - kotlin
