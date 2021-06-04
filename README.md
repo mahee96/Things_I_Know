@@ -11,3 +11,5 @@ This is a list of things I know[knew] and might[might have] forget[forgotten] to
 - Js
 - batch (windows CMD)
 - bash (bourne shell)
+- Git
+
